@@ -1,0 +1,5 @@
+INSERT INTO `pmw_infoclass` VALUES('1','1','0','0,','2','产品展示','','','','','','','','1','true');
+INSERT INTO `pmw_infoclass` VALUES('2','1','0','0,','2','最新资讯','','','','','','','','2','true');
+INSERT INTO `pmw_infoclass` VALUES('3','1','1','0,1,','2','设计','','','','','','','','3','true');
+INSERT INTO `pmw_infoclass` VALUES('4','1','1','0,1,','2','源码','','','','','','','','4','true');
+INSERT INTO `pmw_infoclass` VALUES('5','1','1','0,1,','2','视频','','','','','','','','5','true');
